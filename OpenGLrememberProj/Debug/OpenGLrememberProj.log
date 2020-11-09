@@ -1,0 +1,8 @@
+﻿  Render.cpp
+C:\Users\Антон\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Антон\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Антон\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Антон\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(903,94): warning C4101: y: неиспользованная локальная переменная
+C:\Users\Антон\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(903,91): warning C4101: x: неиспользованная локальная переменная
+C:\Users\Антон\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(903,88): warning C4101: r: неиспользованная локальная переменная
+  OpenGLrememberProj.vcxproj -> C:\Users\Антон\Downloads\grafika_lab2-master\Debug\OpenGLrememberProj.exe
